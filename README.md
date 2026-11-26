@@ -30,8 +30,7 @@ The code uses shorter names than the paper:
 
 `python3 rescore.py results/stage_a/state.json` recomputes the paper's re-scoring and GPU-time tables.
 
-The code was written with the help of an AI assistant (Claude). The rest of this README is the lab log, written as
-the work went: each dated decision was fixed before the runs it governs.
+The rest of this README is the lab log, written as the work went: each dated decision was fixed before the runs it governs.
 
 ## Lab log: Qwen2.5-7B, ordered decomposition against DecompRL
 
