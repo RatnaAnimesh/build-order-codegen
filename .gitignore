@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+paper/announcement.md
+paper/main.*
+!paper/main.tex
+!paper/main.pdf
